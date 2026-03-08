@@ -1,0 +1,6 @@
+[submodule "zmk"]
+	path = zmk
+	url = git@github.com:wdtamagi/zmk-config.git
+[submodule "zmk-config"]
+	path = zmk-config
+	url = git@github.com:wdtamagi/zmk-config.git
